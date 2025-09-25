@@ -1,4 +1,4 @@
-name: Practice Project
+name: Practice Project Build
 on: [push, workflow_dispatch]
 jobs:
     run-linters:
